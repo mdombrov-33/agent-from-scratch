@@ -1,7 +1,8 @@
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/ai-agents/)
+
 # Build an AI Agent from Scratch Workshop
 
-- Watch the workshop on [Frontend Masters](https://frontendmasters.com/courses/ai-agents/). 
+- Watch the workshop on [Frontend Masters](https://frontendmasters.com/courses/ai-agents/).
 - View the [course notes](https://clumsy-humor-894.notion.site/Agent-from-scratch-13554fed51a380749554c44aa8989406?pvs=4)
 
 ## Setup Instructions
@@ -14,7 +15,7 @@ The `main` branch contains the final application. To code along with the worksho
 git clone https://github.com/Hendrixer/agent-from-scratch.git
 cd agent-from-scratch
 git checkout step/1
-npm install # or bun install
+npm install #  bun install
 ```
 
 To run the project:
